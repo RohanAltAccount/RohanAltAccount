@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong style="color:#359DFF;">Hello, my name's Rohan.</strong><br>
+  <strong style="color:#359DFF;">Hi, I'm Rohan.</strong><br>
   I'm passionate about <span style="color:#359DFF;">tech,</span> discovery, and <span style="color:#359DFF;">creating things!</span>
 </p>
 
