@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Aileron&duration=2500&pause=1000&color=FF9735&center=true&vCenter=true&repeat=true&width=600&lines=Comp+Sci;DECA;DICE;Robotics;Web+Design;YouTube+(@ROHAN-MODI);Tech;Writing+Tech+News+(at+TecRes)" alt="My Interests Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Aileron&duration=2500&pause=1000&color=FF9735&center=true&vCenter=true&repeat=true&width=600&lines=Comp+Sci;AI/ML;DECA;Robotics;Web+Design;YouTube+(@ROHAN-MODI);Tech;Writing+Tech+News+(at+TecRes)" alt="My Interests Animation"/>
 </p>
 
 <p align="center">
