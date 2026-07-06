@@ -44,7 +44,7 @@
     .interests h1:nth-child(7) { animation-delay: calc(var(--step-duration) * 6), calc(var(--step-duration) * 6), calc(var(--step-duration) * 6); }
     
     .interests h1 span.class1 {
-        display: none; /* Hide class1 by default */
+        display: none; 
         border-right: 2px solid var(--color-primary-1);
         animation: blink 1s step-end infinite;
     }
@@ -75,12 +75,14 @@
   <div class="container">
     <div class="interests">
       <h1>Comp Sci<span class="class1"></span></h1>
+      <h1>AI & ML<span class="class1"></span></h1>
+      <h1>Español<span class="class1"></span></h1>
       <h1>DECA<span class="class1"></span></h1>
-      <h1>Robotics<span class="class1"></span></h1>
+      <h1>FRC (7492: Turbo Torque) <span class="class1"></span></h1>
       <h1>Web Design<span class="class1"></span></h1>
       <h1>YouTube Channel (@ROHAN-MODI)<span class="class1"></span></h1>
       <h1>Tech<span class="class1"></span></h1>
-      <h1>Writing Tech News (at TecRes)<span class="class1"></span></h1>
+      <h1>Writing Tech News (@ TecRes)<span class="class1"></span></h1>
     </div>
   </div>
   <p>Hello, my name's Rohan. I'm passionate about tech and creating things! </p>
