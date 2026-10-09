@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Aileron&duration=2500&pause=1000&color=D1A82C&center=true&vCenter=true&repeat=true&width=600&lines=Comp+Sci;AI/ML;DECA;FRC+(7492+Turbo+Torque);Web+Design;Tech;" alt="My Interests"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Aileron&duration=2500&pause=1000&color=D12C39&center=true&vCenter=true&repeat=true&width=600&lines=Comp+Sci;AI/ML;DECA;FRC+(7492+Turbo+Torque);Web+Design;Tech;" alt="My Interests"/>
 </p>
 
 <p align="center">
